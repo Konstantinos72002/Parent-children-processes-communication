@@ -1,4 +1,4 @@
-# You can see the exersice in pdf
+# You can see the exersice requerments in pdf
 
 In my shared memory i store the request segment from child, an array with lines of
 desired segments and the finished children.
