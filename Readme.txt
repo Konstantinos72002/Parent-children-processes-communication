@@ -1,3 +1,5 @@
+# You can see the exersice in pdf
+
 In my shared memory i store the request segment from child, an array with lines of
 desired segments and the finished children.
 
